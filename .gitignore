@@ -1,0 +1,44 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyd
+*.pyo
+*.pyz
+*.pickle
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+.ipynb_checkpoints
+
+data/
+
+# Environment and configuration files
+.env
+.venv/
+*.env.*
+
+node_modules/
+/build/
+.npm/
+.npmrc
+.yarn-cache/
+.next/
+out/
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.orig
+*.old
+*.sage.py
+
+# OS files
+.DS_Store
