@@ -1,0 +1,7 @@
+These files are from MedRag https://github.com/Teddy-XiongGZ/MedRAG and are in the public domain: https://github.com/Teddy-XiongGZ/MedRAG/blob/main/LICENSE.
+
+Alterations have been made to:
+
+* Load data from HF datasets instead of git/json
+* Split and cache embedding generation to reduce memory usage
+* Support loading custom models based on a FS path for retrieval

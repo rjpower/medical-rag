@@ -1,3 +1,6 @@
+cache/
+corpus/
+
 __pycache__/
 .pytest_cache/
 *.py[cod]
@@ -12,8 +15,6 @@ build/
 *.so
 
 .ipynb_checkpoints
-
-data/
 
 # Environment and configuration files
 .env
